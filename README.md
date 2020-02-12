@@ -12,7 +12,7 @@ git clone https://github.com/jpalvesl/processador-de-imagem.git
 
 2. **Navegue até a pasta com os arquivos fonte**  
   ```shell
-  cd src
+  cd src/
   ```
 
 3. **Baixe as bibliotecas com os comandos a seguir**  
@@ -31,13 +31,17 @@ git clone https://github.com/jpalvesl/processador-de-imagem.git
 - matplotlib
 
 ## Exemplos de uso
-- Imagem Original 
+### Imagem Original
   <img src="assets/penguin.png">
-- Filtro da Mediana 
+
+### Filtro da Mediana 
   <img src="assets/penguin-median.png">
-- Filtro da Media 
+
+### Filtro da Media 
   <img src="assets/penguin-mean.png">
-- Filtro da Kuwahara 3x3
+
+### Filtro da Kuwahara 3x3
   <img src="assets/kuwahara3.png">
-- Filtro da Kuwahara 5x5
-<img src="assets/kuwahara5.png">
+
+### Filtro da Kuwahara 5x5
+  <img src="assets/kuwahara5.png">
