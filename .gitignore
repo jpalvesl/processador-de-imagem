@@ -107,7 +107,7 @@ dmypy.json
 .pyre/
 
 # Personal configs
-*.jpg
-*.png
+src/*.jpg
+src/*.png
 
 # End of https://www.gitignore.io/api/python
