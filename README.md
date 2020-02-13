@@ -1,6 +1,8 @@
 # Processador de imagens
-Projeto feito no fim da disciplina de algoritimos e programação
-
+## Projeto feito no fim da disciplina de algoritimos e programação
+Alunos:
+- [João Pedro Alves de Lima](https://github.com/jpalvesl)
+- [Iasmin Santos Lucena](https://github.com/iasminsantosx)
 
 ## 🚀 Início rápido
 
